@@ -7,7 +7,7 @@ permalink: /about/
 Este é meu blog pessoal, para realização de experimentos e documentação 
 de experiências vividas por mim no ambiente profissional de TI.
 
-This is my personal, for me to report expirements and my personal expirience
+This is my personal, for me to report experiments and my personal experience
 as a professional of IT.
 
 I am Tiago Lopes da Costa, born in [maps]() Fortaleza, Ceará, Brazil
