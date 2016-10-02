@@ -1,0 +1,13 @@
+image: ruby:2.3
+
+pages:
+  stage: deploy
+  environment: pages
+  script:
+  - bundle install
+  - jekyll build --destination public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
