@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.2.1"
+gem "jekyll", "3.8"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
@@ -26,3 +26,5 @@ gem 'guard-livereload'
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+gem "jekyll-theme-cayman", "~> 0.2.0"
